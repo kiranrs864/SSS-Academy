@@ -1,0 +1,26 @@
+product_id,product_name,category,price,expiry_date
+P101,Blood Pressure Monitor,Equipment,150.0,2024-11-15
+P102,Glucose Powder,Supplements,100.0,2026-01-01
+P103,Blood Pressure Monitor,Equipment,,2025-12-31
+P104,First Aid Kit,Equipment,,
+P105,First Aid Kit,Medicines,150.0,2027-06-01
+P106,Vitamin C Tablets,Nutrition,,2026-01-01
+,Vitamin C Tablets,Equipment,200.0,2027-06-01
+P102,Blood Pressure Monitor,Supplements,100.0,
+P103,First Aid Kit,Nutrition,150.0,2024-11-15
+P104,First Aid Kit,Medicines,200.0,2027-06-01
+P105,Glucose Powder,Equipment,150.0,2025-12-31
+P106,Pain Relief Spray,Medicines,150.0,2025-12-31
+P101,First Aid Kit,Accessories,,2025-12-31
+P102,Vitamin C Tablets,Accessories,150.0,
+P103,Glucose Powder,Nutrition,,2027-06-01
+P104,Vitamin C Tablets,Medicines,100.0,2025-12-31
+P105,Pain Relief Spray,Medicines,100.0,2027-06-01
+P106,Pain Relief Spray,Accessories,150.0,2024-11-15
+P101,Vitamin C Tablets,Supplements,200.0,2027-06-01
+P102,Vitamin C Tablets,Nutrition,,2027-06-01
+P103,Vitamin C Tablets,Accessories,200.0,2024-11-15
+P104,Pain Relief Spray,Equipment,150.0,2024-11-15
+P105,First Aid Kit,Accessories,100.0,2027-06-01
+P106,Pain Relief Spray,Medicines,,
+P101,Pain Relief Spray,Nutrition,150.0,2027-06-01

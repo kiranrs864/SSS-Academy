@@ -1,0 +1,26 @@
+store_id,store_name,location,contact_number
+S01,MediCare Plus,,9876543210
+S02,HealthFirst Store,Chicago,444-5678
+S03,MediCare Plus,Chicago,444-5678
+S04,Vital Life Store,Miami,555-1234
+S05,Wellness Pharma,Chicago,9876543210
+S01,Wellness Pharma,New York,
+S02,HealthFirst Store,Miami,1234567890
+S03,RapidAid Health,New York,1234567890
+S04,Wellness Pharma,Chicago,1234567890
+S05,RapidAid Health,Miami,
+S01,Wellness Pharma,,9876543210
+S02,MediCare Plus,Chicago,444-5678
+S03,RapidAid Health,Chicago,444-5678
+S04,MediCare Plus,,555-1234
+S05,MediCare Plus,Chicago,
+S01,HealthFirst Store,,1234567890
+S02,MediCare Plus,Chicago,444-5678
+S03,Wellness Pharma,Los Angeles,555-1234
+S04,RapidAid Health,,1234567890
+S05,Vital Life Store,Chicago,9876543210
+S01,Wellness Pharma,New York,9876543210
+S02,Wellness Pharma,New York,555-1234
+S03,Wellness Pharma,New York,
+S04,RapidAid Health,New York,555-1234
+,HealthFirst Store,Miami,9876543210
